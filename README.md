@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohunger
 - 👀 I’m interested in game
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
